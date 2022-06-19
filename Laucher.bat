@@ -7,7 +7,7 @@ color 90
 cls
 date /t
 echo Computador: %computername% Usuario: %username%                   
-echo         Fruit Rain Laucher
+echo        Simpe Vote Laucher
 echo  ==================================
 echo * 1.Modulo de Contagem            * 
 echo * 2.Modulo de Injecao             *
