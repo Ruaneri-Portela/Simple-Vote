@@ -1,6 +1,6 @@
 # Simple-Vote
 
-A simple insertion, voting and counting system in python, using openpyxl and simpleaudio.
+A simple insertion, voting and counting system in python, using openpyxl and playsound.
 
 
 
@@ -10,7 +10,7 @@ The system is divided into 3 scripts, one sets the parameters of position and ca
 
 Created as an activity for the Algorithms and Data Structures 1 course at FURG
 ***
-Um simples sistema de inserção, votação e contagem em python, usando openpyxl e simpleaudio.
+Um simples sistema de inserção, votação e contagem em python, usando openpyxl e playsound.
 
 
 o sistema dividido em 3 scripts que um configura os parâmetros de cargo e candidato, outra faz a votação, e a ultima recebe os arquivos, varias vezes e os soma gerando um xls com a contagem  por cargo dos mais ao menos votado.
