@@ -1,0 +1,41 @@
+---------------EGU--------------------
+Vereador, 1
+Prefeito, 2
+---------------CFT--------------------
+Kirito, 1020, 1
+Asuna, 1053, 1
+Yui, 1087, 1
+Tsubaki, 1045, 1
+Akira, 1098, 1
+Yumi, 1078, 1
+Saka, 1046, 1
+Marcos, 5060, 2
+Liminha, 5078, 2
+Joãozinho, 5043, 2
+---------------ENV--------------------
+Akira,1,Vereador,1098
+Akira,1,Vereador,1098
+Asuna,1,Vereador,1053
+Asuna,1,Vereador,1053
+Joãozinho,2,Prefeito,5043
+Joãozinho,2,Prefeito,5043
+Joãozinho,2,Prefeito,5043
+Kirito,1,Vereador,1020
+Kirito,1,Vereador,1020
+Liminha,2,Prefeito,5078
+Liminha,2,Prefeito,5078
+Liminha,2,Prefeito,5078
+Liminha,2,Prefeito,5078
+Marcos,2,Prefeito,5060
+Marcos,2,Prefeito,5060
+Marcos,2,Prefeito,5060
+Saka,1,Vereador,1046
+Tsubaki,1,Vereador,1045
+Voto Nulo,1,Nulo,1444
+Voto Nulo,2,Nulo,1445
+Voto Nulo,2,Nulo,4673
+Voto Nulo,2,Nulo,1444
+Voto Nulo,1,Nulo,1233
+Voto Nulo,1,Nulo,4675
+Voto Nulo,1,Nulo,3568
+Yumi,1,Vereador,1078

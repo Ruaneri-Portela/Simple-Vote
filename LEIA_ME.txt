@@ -1,0 +1,24 @@
+SimpleVote Construção Final
+-----------------------------------------------
+Adições
+-> O modulo de contagem foi finalizado
+-> Feito melhorias e concertos internos nos códigos dos modulos
+-> Melhorias na interface gráfica
+-> Tela de CreditosAlterações
+-> Resultado de urna agora sai em uma planilhas-> Alterações dos nomes de extensões 
+Não foi possível
+->Quando ocorre um erro, uma execução impresvista não pode se avisar e retornar sem que trave o programa
+  logo como solução quaquer janela que seja executada dentro de uma execução encerra o programa, limitação
+  da graphics.py
+->Devido a tal erro inviabilizou o travamento de urna, já que não tem como executar nada fora do graphics, seria possivel
+  uma outra solução com mais tempo e ou usando outros bibliotexas
+->Criptografia não foi adicionada devido ao limite de tempo.
+
+-----------------------------------------------
+Bugs conhecidos
+-> Alguns menus aceitam entradas invadidas e travam a execução
+-----------------------------------------------
+Segue arquivos de teste previos, um com uma configuração de candidatos (Candidatos_exemplo), outro com uma votação de exemplo (urna_exemplo)
+e o ultimo a planilha com o resultado de uma percursão de arquivo na contagem
+------------------------------------------------
+Para execução dos programas executo junto aos .png do arquivo .zip
